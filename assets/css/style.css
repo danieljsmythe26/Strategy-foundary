@@ -521,6 +521,10 @@ section {
   background-color: #f3f5fa;
 }
 
+.section-bg-2 {
+  background-color: #e5fff2;
+}
+
 .section-title {
   text-align: center;
   padding-bottom: 30px;
